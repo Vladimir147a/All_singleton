@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\All_singleton\\singleton\\",
+  "WorkspaceRootPath": "D:\\\u0437\u04344\\All_singleton\\singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\all_singleton\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\\u0437\u04344\\all_singleton\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\\u0437\u04344\\all_singleton\\singleton\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\\u0437\u04344\\all_singleton\\singleton\\singleton\\singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\\u0437\u04344\\All_singleton\\singleton\\singleton\\Singleton.cs",
+              "RelativeDocumentMoniker": "singleton\\Singleton.cs",
+              "ToolTip": "D:\\\u0437\u04344\\All_singleton\\singleton\\singleton\\Singleton.cs",
+              "RelativeToolTip": "singleton\\Singleton.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:37:14.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "singleton",
+              "DocumentMoniker": "D:\\\u0437\u04344\\All_singleton\\singleton\\singleton\\singleton.csproj",
+              "RelativeDocumentMoniker": "singleton\\singleton.csproj",
+              "ToolTip": "D:\\\u0437\u04344\\All_singleton\\singleton\\singleton\\singleton.csproj",
+              "RelativeToolTip": "singleton\\singleton.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T13:31:46.277Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
+              "DocumentMoniker": "D:\\\u0437\u04344\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeDocumentMoniker": "singleton\\Program.cs",
-              "ToolTip": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
+              "ToolTip": "D:\\\u0437\u04344\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeToolTip": "singleton\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T12:22:31.238Z",
               "EditorCaption": ""
