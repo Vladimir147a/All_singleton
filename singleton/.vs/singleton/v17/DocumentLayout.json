@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\All_singleton\\singleton\\",
+  "WorkspaceRootPath": "C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\all_singleton\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|c:\\users\\imago\\downloads\\portablegit\\all_singleton\\singleton\\singleton\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|c:\\users\\imago\\downloads\\portablegit\\all_singleton\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\all_singleton\\singleton\\singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,28 +22,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Patter_singleton.cs",
-              "DocumentMoniker": "D:\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
-              "RelativeDocumentMoniker": "singleton\\Patter_singleton.cs",
-              "ToolTip": "D:\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
-              "RelativeToolTip": "singleton\\Patter_singleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\singleton\\Class1.cs",
+              "RelativeDocumentMoniker": "singleton\\Class1.cs",
+              "ToolTip": "C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\singleton\\Class1.cs",
+              "RelativeToolTip": "singleton\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:15:32.324Z",
+              "WhenOpened": "2024-11-18T05:39:06.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Patter_singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
+              "RelativeDocumentMoniker": "singleton\\Patter_singleton.cs",
+              "ToolTip": "C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
+              "RelativeToolTip": "singleton\\Patter_singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:15:32.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeDocumentMoniker": "singleton\\Program.cs",
-              "ToolTip": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Imago\\Downloads\\PortableGit\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeToolTip": "singleton\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
