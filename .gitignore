@@ -1,16 +1,16 @@
 # Игнорировать файлы и папки Visual Studio
-.vs/
+*.vs/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
 # Игнорировать папки сборки и промежуточные файлы
-obj/
-bin/
+*obj/
+*bin/
 
 # Игнорировать временные файлы .NET
-project.lock.json
-project.fragment.lock.json
-artifacts/
-singleton/
+*project.lock.json
+*project.fragment.lock.json
+*artifacts/
+*singleton/
