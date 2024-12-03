@@ -1,0 +1,17 @@
+class MySingleton:
+    __instance = None
+
+    @staticmethod
+    def getInstance():
+        if MySingleton.__instance is None:
+            MySingleton()
+        return MySingleton.__instance
+
+    def __init__(self):
+        if MySingleton.__instance is not None:
+            raise Exception("This class is a singleton!")
+        else:
+            MySingleton.__instance = self
+
+    def doSomething(self):
+        print("Singleton method called!")
